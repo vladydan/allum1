@@ -1,0 +1,40 @@
+Allum1 by danilo_d
+
+RULES----------------------------------------------------------------------------
+
+Welcome to the Nim Game !
+The goal of the game is to not take the last match.
+You can take every match of a line, but you can't take others.
+
+FEATURES-------------------------------------------------------------------------
+
+You can play against a friend in player vs player,
+or you can play against the computer.
+You also can choose the maximum match value.
+You can decide if you can play in the text version or the graphic version.
+I advice you to play in the GUI version which is a lot more enjoyable.
+You aslo can decide who start first when you play against IA (click in the next button)
+
+HOW TO PLAY----------------------------------------------------------------------
+
+If you want to play graphical mode type "-gui"
+If you want to chose the number of match type for exemple "-match7"
+If you wanna play against a friend type "-pvp".
+
+If you choose to not play in the graphical mod :
+You can choose the line and the match you wanna take off by typing for exemple
+4 2 , this say : Take out 2 matchs from the line number 4
+YOu can exit the game by typing "exit".
+BECAREFUL THE LINE NUMBER DONT MATCH WITH THE REAL LINE.
+For exemple the line four can be the line one in reality.
+
+If you play in the graphical mod , you need to choose the match
+you wanna take off by clicking the right side of the match,
+and when you finish you need to click the top right button to finish
+your round.
+Also , you can finish the first round by clicking pass directly if you wanna let the
+IA play first.
+---------------------------------------------------------------------------------------
+
+GL HF ! Good Game and Have Fun :) !
+
